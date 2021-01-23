@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 123,
+      "id": 1,
       "category": "animal welfare",
       "title": "Dog Adoption Day",
       "description": "Find your new best friend at this event.",
@@ -11,7 +11,7 @@
       "organizer": "Kat Laydee"
     },
     {
-      "id": 456,
+      "id": 2,
       "category": "food",
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
@@ -21,7 +21,7 @@
       "organizer": "Fern Pollin"
     },
     {
-      "id": 789,
+      "id": 3,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -29,6 +29,36 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 4,
+      "category": "elderly care",
+      "title": "Windham Hospice visit",
+      "description": "Spend some time wiht teh elderly at the hospice",
+      "location": "Windahm Hospice",
+      "date": "July 25, 2022",
+      "time": "08:00",
+      "organizer": "Ben Stillar"
+    },
+    {
+      "id": 5,
+      "category": "animal welfare",
+      "title": "Marblehead Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Marblehead Beach Reef, near Pier 7 bar",
+      "date": "July 26, 2021",
+      "time": "10:00",
+      "organizer": "Blake Lively"
+    },
+    {
+      "id": 6,
+      "category": "cleanup",
+      "title": "Highway Cleanup",
+      "description": "Help pick up trash along the 95 highway between beverly and Peabody",
+      "location": "Exit 21",
+      "date": "July 31, 2022",
+      "time": "15:00",
+      "organizer": "Rod Stewart"
     }
   ]
 }
